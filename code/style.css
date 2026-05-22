@@ -1,0 +1,42 @@
+body{ background: wheat;
+          width: 100%;
+          height: 100vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+}
+#container{
+          overflow: hidden;
+          border-radius: 13px;
+          background: #000;
+          height: 60vh;
+          width: 20vw;
+
+}
+#text_container{
+          width: 100%;
+          height: 17%;
+          background: blue;
+}
+input{
+          width: 100%;
+          height: 100%;
+          border: none;
+          background: #333333;
+}
+
+#keypad_container{
+          padding: 20px;
+          width: 100%;
+          height: 100%;
+          background: #262626;
+          display: grid;
+          grid-template-columns: 1fr 3fr;
+}
+#symbol_container{
+          background: blue;
+
+}
+#number_container{
+          background: red;
+}
