@@ -1,194 +1,25 @@
-# Project Name
-*A brief tagline or one-sentence description of your project.*
+# Simple Web Calculator
+
+A sleek, modern web-based calculator built using semantic HTML5 and CSS Grid layout. The design features a dark mode aesthetic inspired by modern mobile calculators, complete with responsive hover transitions.
 
 ## 🚀 Features
-- **Feature 1**: *Brief description.*
-- **Feature 2**: *Brief description.*
-- **Feature 3**: *Brief description.*
 
-## 🛠️ Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
-   ```
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```
-3. Start the application:  
-   ```bash
-   npm start
-   ```
+* **Grid Layout:** Utilizes efficient CSS Grid styling for a clean separation of operators and numerical keypads.
+* **Modern Aesthetic:** A dark-themed layout using custom hex colors, rounded button elements, and a smooth "wheat" background.
+* **Interactive UI:** Fully responsive hover effects (`scale` and color transitions) built entirely with pure CSS.
+* **Clean Markup:** Semantic HTML structure ready for JavaScript functionality integration.
 
-## 📚 Usage  
-1. *Step 1 to use the project.*  
-2. *Step 2 to use the project.*  
-3. *Additional details if necessary.*
+---
 
-## 🤝 Contributing  
-Contributions are welcome! Please fork the repository and submit a pull request.  
+## 🛠️ Built With
 
-1. Fork the project.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push the branch:  
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
+* **HTML5:** Structure and markup.
+* **CSS3:** Layout (CSS Grid, Flexbox), animations, and custom styling.
 
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).
-# Project Name
-*A brief tagline or one-sentence description of your project.*
+---
 
-## 🚀 Features
-- **Feature 1**: *Brief description.*
-- **Feature 2**: *Brief description.*
-- **Feature 3**: *Brief description.*
+## 📂 Project Structure
 
-## 🛠️ Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
-   ```
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```
-3. Start the application:  
-   ```bash
-   npm start
-   ```
-
-## 📚 Usage  
-1. *Step 1 to use the project.*  
-2. *Step 2 to use the project.*  
-3. *Additional details if necessary.*
-
-## 🤝 Contributing  
-Contributions are welcome! Please fork the repository and submit a pull request.  
-
-1. Fork the project.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push the branch:  
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).
-
-# Project Name
-*A brief tagline or one-sentence description of your project.*
-
-## 🚀 Features
-- **Feature 1**: *Brief description.*
-- **Feature 2**: *Brief description.*
-- **Feature 3**: *Brief description.*
-
-## 🛠️ Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
-   ```
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```
-3. Start the application:  
-   ```bash
-   npm start
-   ```
-
-## 📚 Usage  
-1. *Step 1 to use the project.*  
-2. *Step 2 to use the project.*  
-3. *Additional details if necessary.*
-
-## 🤝 Contributing  
-Contributions are welcome! Please fork the repository and submit a pull request.  
-
-1. Fork the project.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push the branch:  
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).
-
-# Project Name
-*A brief tagline or one-sentence description of your project.*
-
-## 🚀 Features
-- **Feature 1**: *Brief description.*
-- **Feature 2**: *Brief description.*
-- **Feature 3**: *Brief description.*
-
-## 🛠️ Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
-   ```
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```
-3. Start the application:  
-   ```bash
-   npm start
-   ```
-
-## 📚 Usage  
-1. *Step 1 to use the project.*  
-2. *Step 2 to use the project.*  
-3. *Additional details if necessary.*
-
-## 🤝 Contributing  
-Contributions are welcome! Please fork the repository and submit a pull request.  
-
-1. Fork the project.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push the branch:  
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).
+```text
+├── index.html   # Main HTML document containing the calculator layout
+└── style.css    # Stylesheet handling the CSS Grid and dark-theme aesthetics
