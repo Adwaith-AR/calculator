@@ -18,95 +18,97 @@ const ansBtn = document.getElementById("ansBtn");
 const Display = document.getElementById("inputContainer");
 
 
-let displayString , Ans ;
+let displayString, Ans;
 
-addBtn.onclick = function(){
+addBtn.onclick = function () {
           displayString = String(Display.value) + "+";
           Display.value = displayString;
-          
+          Display.scrollLeft = Display.scrollWidth;
+
 }
 subtractingBtn.onclick = function () {
           displayString = String(Display.value) + "-";
           Display.value = displayString;
+          Display.scrollLeft = Display.scrollWidth;
 
 }
 productBtn.onclick = function () {
           displayString = String(Display.value) + "*";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 divideBtn.onclick = function () {
           displayString = String(Display.value) + "/";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 clearBtn.onclick = function () {
           displayString = "";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn0.onclick = function () {
           displayString = String(Display.value) + "0";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 
 Btn1.onclick = function () {
           displayString = String(Display.value) + "1";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn2.onclick = function () {
           displayString = String(Display.value) + "2";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn3.onclick = function () {
           displayString = String(Display.value) + "3";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn4.onclick = function () {
           displayString = String(Display.value) + "4";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn5.onclick = function () {
           displayString = String(Display.value) + "5";
-          Display.value = displayString;
+          Display.scrollLeft = Display.scrollWidth; Display.value = displayString;
 
 }
 Btn6.onclick = function () {
           displayString = String(Display.value) + "6";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn7.onclick = function () {
           displayString = String(Display.value) + "7";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn8.onclick = function () {
           displayString = String(Display.value) + "8";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 Btn9.onclick = function () {
           displayString = String(Display.value) + "9";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 decimalBtn.onclick = function () {
           displayString = String(Display.value) + ".";
           Display.value = displayString;
-
+          Display.scrollLeft = Display.scrollWidth;
 }
 ansBtn.onclick = function () {
           try {
-                    
+
                     Display.value = eval(Display.value);
           } catch (error) {
-                    
+
                     Display.value = "Error";
           }
 }
