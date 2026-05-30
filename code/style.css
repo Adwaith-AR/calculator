@@ -81,6 +81,10 @@ input {
           background: #4d4d4d;
           transition: 100ms;
 }
+#ansBtn{
+          background: white;
+          color: #000;
+}
 
 .number:hover {
           scale: 1.08;
