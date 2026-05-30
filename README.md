@@ -1,6 +1,7 @@
-# 🧮 The "Yet Another Calculator" Project
+# This is a regular calculator project
 
-Welcome to the ultimate breakthrough in 21st-century technology: a calculator that does exactly what the calculator on your phone already does, but with 100% more satisfaction because *we built it*. 
+Welcome to av creations 
+this is i created is not that revolutionary bcs i created this project to improve my coding in webdevolepment,and js coding
 
 Tired of doing math in your head? Tired of trusting big-tech calculators that don't have soul? Look no further.
 
@@ -8,11 +9,14 @@ Tired of doing math in your head? Tired of trusting big-tech calculators that do
 
 ## ✨ Features
 
-Our state-of-the-art system supports groundbreaking mathematical operations, including:
+Yaa guys as you all knows it is a calculator , if you don't know the features they are
 
-* **Addition (`+`):** Puts numbers together. Revolutionizing the way we count apples.
-* **Subtraction (`-`):** Takes numbers away. Perfect for calculating how much money is left in your bank account.
-* **Multiplication (`*`):** Fast addition. For when regular addition is just too slow.
-* **Division (`/`):** Splits things up. Includes a custom-built, highly sophisticated "Please don't divide by zero, you'll break the universe" protection layer.
+* **Addition (`+`):**
+* **Subtraction (`-`):** 
+* **Multiplication (`*`):**
+* **Division (`/`):** 
 
----
+## ✨ Preview
+
+And fellow people this is how my calculator looks like 
+![Preview](./Screenshot%20from%202026-05-31%2000-36-46.png)
